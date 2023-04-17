@@ -6,10 +6,6 @@ Analysis of tweets after the 7.8 and 7.7 magnitude earthquakes that occurred in 
 
 I aimed to understand which emotions were dominant during earthquakes and what words people used to express their emotions.
 
-I followed the steps:
-
-1. 
-
 Sources:
 --
 
