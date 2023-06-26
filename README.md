@@ -11,4 +11,4 @@ Sources:
 
 You can find details of the model [here](https://huggingface.co/THUDM/chatglm-6b).
 
-[Dataset](https://www.kaggle.com/datasets/gpreda/turkey-earthquake-tweets)
+You can access the dataset [here](https://www.kaggle.com/datasets/gpreda/turkey-earthquake-tweets).
