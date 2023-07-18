@@ -20,4 +20,4 @@ The dataset used for this analysis is available [here](https://www.kaggle.com/da
 
 License
 --
-This project is licensed under MIT License.
+This project is licensed under [MIT License.](https://github.com/miraytopal/Turkey-Earthquake-Tweets-Sentiment-Analysis-NLP/blob/main/LICENSE)
